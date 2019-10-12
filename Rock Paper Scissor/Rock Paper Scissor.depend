@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1560170378 source:c:\users\sujan kumar mitra\desktop\rock paper scissor\main.c
+	<stdio.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+
+1560484987 source:d:\documents\projetcs\rock paper scissor\main.c
+	<stdio.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+
